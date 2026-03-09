@@ -32,4 +32,4 @@ Fork the `endgame-trackball-config` repository. Any commit will trigger an actio
 ### Also see
 1. Parent repo: https://github.com/efogtech/endgame-trackball
 2. ZMK docs: https://zmk.dev/docs/
-3. Zephyr 3.5 docs: https://docs.zephyrproject.org/3.5.0/
+3. Zephyr 3.5 docs: https://docs.zephyrproject.org/3.5.0/ 
